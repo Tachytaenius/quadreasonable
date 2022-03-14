@@ -1,5 +1,8 @@
--- Quadreasonable. Useful quads library.
--- By Tachytaenius.
+-- Quadreasonable is a quads library for spritesheets in LÖVE
+-- By Tachytaenius
+-- Version 1
+
+-- TODO: Verify that claim below!
 
 local quadreasonable = {} -- Quadtastic was already taken ;-)
 
